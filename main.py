@@ -10,9 +10,9 @@ Job_Url = "https://careers.se.com/jobs?sortBy=posted_date&descending=true&page=1
 seen_jobs_file = "seen_jobs.json"
 
 # --- EMAIL CONFIGURATION (change these) ---
-sender_email = "yashsd99@gmail.com"
-app_password = "vkgv zfur hpnc qwir"
-recipient_email = "deshpande.ya@northeastern.edu"
+sender_email = "your email id"
+app_password = "app password using gcp"
+recipient_email = "recipient email id"
 
 
 # ------------- Email Notifier -------------
